@@ -6,7 +6,7 @@
 <a href="https://github.com/r0cketp0wer"><img title="Stars" src="https://img.shields.io/github/stars/r0cketp0wer/InstaBox?color=red&style=flat-square"></a>
 <a href="https://github.com/r0cketp0wer"><img title="Forks" src="https://img.shields.io/github/forks/r0cketp0wer/InstaBox?color=red&style=flat-square"></a>
 <a href="https://github.com/r0cketp0wer"><img title="Watching" src="https://img.shields.io/github/watchers/r0cketp0wer/InstaBox?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/r0cketp0wer"><img title="Licence" src="https://img.shields.io/badge/License-GNU-blue.svg"></a>
+<a href="https://github.com/r0cketp0wer"><img title="Licence" src="https://img.shields.io/badge/License-MIT-blue.svg"></a>
 </p>
 
 InstaBox is an all in one tool for hacking Instagram accounts. Visit [here](Github.com/r0cketp0wer) for more tools.
