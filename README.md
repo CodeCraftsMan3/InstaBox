@@ -1,5 +1,7 @@
 # InstaBox
 
+## Please leave a ⭐ as motivation if you liked the implementation 😄
+
 <p align="center">
 <a href="https://github.com/r0cketp0wer"><img title="Language" src="https://img.shields.io/badge/Made%20with-Python-1f425f.svg?v=103"></a>
 <a href="https://github.com/r0cketp0wer"><img title="Followers" src="https://img.shields.io/github/followers/r0cketp0wer?color=blue&style=flat-square"></a>
